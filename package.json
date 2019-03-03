@@ -32,7 +32,7 @@
     "concat-with-sourcemaps": "^1.0.4",
     "fs-extra": "^7.0.0",
     "get-stdin": "^6.0.0",
-    "globby": "^8.0.0",
+    "globby": "^9.1.0",
     "pify": "^4.0.0",
     "read-pkg-up": "^4.0.0",
     "source-map-resolve": "^0.5.0",
